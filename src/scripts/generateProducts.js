@@ -11,3 +11,4 @@ const generateProducts = async (number) => {
 };
 
 generateProducts(3);
+
